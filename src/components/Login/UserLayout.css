@@ -1,0 +1,103 @@
+.content-first {
+  background-color:white;
+  position: absolute;
+  left: 35%;
+  top: 15%;
+
+}
+
+.top {
+  text-align: center;
+}
+
+.header {
+  height: 44px;
+  line-height: 44px;
+  a {
+    text-decoration: none;
+  }
+  
+}
+
+.logo {
+  height: 44px;
+  vertical-align: top;
+  margin-right: 16px;
+}
+
+.title {
+  font-size: 33px;
+  color: rgba(0, 0, 0, 0.85);
+  font-family: 'Myriad Pro', 'Helvetica Neue', Arial, Helvetica, sans-serif;
+  font-weight: 600;
+  position: relative;
+  top: 8px;
+}
+
+.desc {
+  font-size: 14px;
+  color: rgba(0, 0, 0, 0.45);
+  margin-top: 12px;
+  margin-bottom: 40px;
+}
+
+.index__footer {
+  padding: 0 16px;
+  text-align: center;
+  color: rgba(0, 0, 0, 0.45);
+  font-size: 14px;
+}
+
+.user_layout{
+  width: 478px;
+  margin: 0 auto;
+}
+
+.input_layout{
+  margin-top: 20px;
+}
+
+.Register__login{
+  float: right;
+}
+
+.button_layout{
+   margin-top: 30px;
+   width: 40%;
+}
+
+.U-logo {
+  /*animation: App-logo-spin infinite 20s linear;*/
+  
+ 
+  height: 50px;
+  padding: 10px;
+  
+}
+
+.login-register{
+  padding: 0 50px 0 50px;
+
+}
+
+.login-form {
+  max-width: 400px;
+}
+
+.login-form-forgot {
+  font-weight:bold;
+  float: right;
+}
+
+.login-form-button {
+  width: 100%;
+}
+
+.login-form-register{
+  font-weight:bold;
+}
+
+.login-form-remember{
+  font-weight:bold;
+
+}
